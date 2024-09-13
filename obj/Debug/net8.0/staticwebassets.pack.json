@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/obj/Debug/net8.0/scopedcss/projectbundle/BlazorTailwind.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorTailwind.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/wwwroot/css/tailwind.css",
+      "PackagePath": "staticwebassets/css/tailwind.css"
+    },
+    {
+      "Id": "/Users/leojuric/SecureBlock/pinky projects/BlazorTailwind/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorTailwind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorTailwind.props",
+      "PackagePath": "build\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorTailwind.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorTailwind.props",
+      "PackagePath": "buildTransitive\\BlazorTailwind.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
